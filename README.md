@@ -6,6 +6,6 @@
      <img src="http://www.samansuite.com/data/0/sis_theme_engine/placeHolders/standard_responsive/all/headerLogo.png" width="30%">
   </a>
    
- # saman
+ # samansuite
 </p>
 
