@@ -7,6 +7,6 @@
   </a>
    
  # Saman Suite
- saman suite mind-map
+ Saman Suite Mind-Map
 </p>
 
