@@ -6,7 +6,7 @@
      <img src="http://www.samansuite.com/data/0/sis_theme_engine/placeHolders/standard_responsive/all/headerLogo.png" width="30%">
   </a>
    <p align="center">
- # Saman Suite
+ <h1> Saman Suite</h1>
      </p>
  Saman Suite Mind-Map
 </p>
