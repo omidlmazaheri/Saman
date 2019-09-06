@@ -8,7 +8,8 @@
   
 </p>
  <p align="center">
-    <h1> Saman Suite</h1>
+    <h1 align="center"> Saman Suite</h1>
+    Saman Suite Mind-Map
      </p>
- Saman Suite Mind-Map
+ 
 
