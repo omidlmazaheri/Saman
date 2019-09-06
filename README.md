@@ -7,6 +7,6 @@
   </a>
    
  # samansuite
- samansite mind-map
+ samansuite mind-map
 </p>
 
